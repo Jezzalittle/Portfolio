@@ -1,0 +1,33 @@
+
+{
+  "projects": [
+    {
+      "name": "UNFAMILIAR",
+      "text": "Unfamiliar is a relaxing fantasy adventure game where you take the form of a cat-witch who sets out to acquire magic ingredients from storybook worlds to craft items and create enchanting costumes.",
+      "videoLink": "https://steamcdn-a.akamaihd.net/steam/apps/256763113/movie480.webm?t=1569734943",
+      "type": "video",
+      "tags": ["Unity", "C#"]
+    },
+    {
+      "name": "GOOGLE SHEETS UNITY INTEGRATION",
+      "text": "GoogleSheets Unity Integration is a tool I created during my time at ManaTea. The tool creates instances of objects from rows in a google sheet and populates the values of those objects with from columns in the spreadsheet",
+      "videoLink": "src/assets/projects/GoogleSheets.gif",
+      "type": "gif",
+      "tags": ["Unity", "C#"]
+    },
+    {
+      "name": "DIVIDE",
+      "text": "Divide is a turn-based strategy game set in a cyberpunk dystopia whilst moving along a hex grid.",
+      "videoLink": "https://www.youtube.com/embed/nPl6idlNnsc",
+      "type": "video",
+      "tags": ["Unity", "C#"]
+   },
+   {
+    "name": "SPECTRAL MAFIA JAM",
+    "text": "Spectral Mafia Jam is the result of a 60 hour game jam conducted at AIE. it is a top down twin stick shooter featuring complex camera movement, multi-functional character control and custom AI.",
+    "videoLink": "https://www.youtube.com/embed/MzTcAK6Tj5k",
+    "type": "video",
+    "tags": ["Unity", "C#"]
+  }
+  ]
+}
