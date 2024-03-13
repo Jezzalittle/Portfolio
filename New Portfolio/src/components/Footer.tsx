@@ -3,7 +3,7 @@ import { SocialIcon } from "react-social-icons";
 
 function Footer() {
 	return (
-		<div className="flex h-[8vh] flex-col justify-center bg-pale-dogwood">
+		<div className="flex h-[6vh] flex-col justify-center bg-pale-dogwood">
 			<div className="flex w-full flex-row justify-center gap-3">
 				<motion.div
 					initial={{ y: 30, opacity: 0 }}

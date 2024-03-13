@@ -2,22 +2,50 @@
 {
   "projects": [
     {
+      "name": "The Sims Freeplay",
+      "text": "I worked on The Sims Freeplay from 2021 to 2023, I maintain the project, fixed bugs and helped developing big features like <a class=\"text-custom-1\" href=\"https://www.ea.com/games/the-sims/the-sims-freeplay/news/midtown-cafe-faq\">MidTown Cafe.</a><br><br> <a class=\"text-custom-1\" href=\"https://www.ea.com/games/the-sims/the-sims-mobile\">The Sims Freeplay.</a> ",
+      "videoLink": "https://www.youtube.com/embed/NrVN7fQ1mBg?si=JtsH6Nc7M7eShyGL",
+      "type": "video",
+      "tags": ["C++", "Internal Engine", "Mobile"]
+    },
+    {
+      "name": "The Sims Mobile",
+      "text": "Between 2020 to 2021 I worked on The Sims Mobile, One of the two sims games that Firemonkeys was producing content for. While I was on The Sims Mobile I helped develope: <a class=\"text-custom-1\" href=\"https://www.ea.com/games/the-sims/the-sims-mobile/news/multilevel-build-feature-faq\">Multilevel Build</a>, <a class=\"text-custom-1\" href=\"https://www.ea.com/games/the-sims/the-sims-mobile/news/date-night-update\">Date Night</a>, <a class=\"text-custom-1\" href=\"https://www.ea.com/games/the-sims/the-sims-mobile/news/multilevel-build-feature-faq\">Multilevel Build</a>, <a class=\"text-custom-1\" href=\"https://www.ea.com/games/the-sims/the-sims-mobile/news/eco-workshop-update\">Eco Workshop<br><br> <a class=\"text-custom-1\" href=\"https://www.ea.com/games/the-sims/the-sims-mobile\">The Sims Mobile.</a> ",
+      "videoLink": "https://www.youtube.com/embed/jYF1C1VCXm0?si=uq7VVXjTnrhAXjVO",
+      "type": "video",
+      "tags": ["C++", "Internal Engine", "Mobile"]
+    },
+    {
+      "name": "ROOTS",
+      "text": "“Roots” is a side on couch multiplayer battle arena game, where you play as a druid tasked with the challenge of defeating other players by grappling around the map and shooting projectiles at your friends.<br><br> I developed this with a friend during the 2023 global game Jam.<br><br> <a class=\"text-custom-1\" href=\"https://jezzalittle.itch.io/roots\">Itch.io</a>",
+      "videoLink": "https://www.youtube.com/embed/th9Z75PRqzc?si=BOTdi0yekVMPod53",
+      "type": "video",
+      "tags": ["Unity", "C#", "Game Jam"]
+    },
+    {
       "name": "UNFAMILIAR",
-      "text": "Unfamiliar is a relaxing fantasy adventure game where you take the form of a cat-witch who sets out to acquire magic ingredients from storybook worlds to craft items and create enchanting costumes.",
+      "text": "Unfamiliar is a relaxing fantasy adventure game where you take the form of a cat-witch who sets out to acquire magic ingredients from storybook worlds to craft items and create enchanting costumes.<br><br>I developed this with some friends from uni in 2019.<br><br><a class=\"text-custom-1\" href=\"https://store.steampowered.com/app/1163150/Unfamiliar/\">Steam</a>",
       "videoLink": "https://steamcdn-a.akamaihd.net/steam/apps/256763113/movie480.webm?t=1569734943",
       "type": "video",
-      "tags": ["Unity", "C#"]
+      "tags": ["Unity", "C#", "Steam"]
+    },
+    {
+      "name": "FINAL PIECES",
+      "text": "You have moved into your new place about a month ago, but those last final pieces that make home what it is, still needs to be unpacked. It's finally time. Chuck on some lo-fi beats to set the mood, and finish making your home special to you.<br><br>I worked on this as part of the 2019 global game jam.<br><br><a class=\"text-custom-1\" href=\"https://v3.globalgamejam.org/2019/games/final-pieces\">GGJ</a>",
+      "videoLink": "https://www.youtube.com/embed/Taqq-S0gfIs?si=2NQNEAeta8MRy_Kb",
+      "type": "video",
+      "tags": ["Unity", "C#", "Game Jam"]
     },
     {
       "name": "GOOGLE SHEETS UNITY INTEGRATION",
-      "text": "GoogleSheets Unity Integration is a tool I created during my time at ManaTea. The tool creates instances of objects from rows in a google sheet and populates the values of those objects with from columns in the spreadsheet",
+      "text": "GoogleSheets Unity Integration is a tool I created during my time at ManaTea. The tool creates instances of objects from rows in a google sheet and populates the values of those objects with from columns in the spreadsheet, this was developed as a tool to help speed up development of the game by allowing designers to create and tweak item values before pulling them into Unity.",
       "videoLink": "src/assets/projects/GoogleSheets.gif",
       "type": "gif",
-      "tags": ["Unity", "C#"]
+      "tags": ["Unity", "C#", "Tooling"]
     },
     {
       "name": "DIVIDE",
-      "text": "Divide is a turn-based strategy game set in a cyberpunk dystopia whilst moving along a hex grid.",
+      "text": "Divide is a turn-based strategy game set in a cyberpunk dystopia whilst moving along a hex grid. I spent half a year working on this as it was my final end of year project at AIE.",
       "videoLink": "https://www.youtube.com/embed/nPl6idlNnsc",
       "type": "video",
       "tags": ["Unity", "C#"]
@@ -27,7 +55,57 @@
     "text": "Spectral Mafia Jam is the result of a 60 hour game jam conducted at AIE. it is a top down twin stick shooter featuring complex camera movement, multi-functional character control and custom AI.",
     "videoLink": "https://www.youtube.com/embed/MzTcAK6Tj5k",
     "type": "video",
-    "tags": ["Unity", "C#"]
+    "tags": ["Unity", "C#", "Game Jam"]
+  },
+  {
+    "name": "OPENGL ENGINE",
+    "text": "OpenGL Engine is the last C++ project I made at AIE, it uses OpenGL to draw OBJ to the Screen, the engine came with a few options including: Background Colour, PBR Shader, Postprocessing effects and some light settings<br><br> <a class=\"text-custom-1\" href=\"https://github.com/Jezzalittle/AIE-Graphics-Engine-Cpp\">Github</a>",
+    "videoLink": "src/assets/projects/OpenGL.gif",
+    "type": "gif",
+    "tags": ["C++", "Graphics"]
+  },
+  {
+    "name": "CLIENT UPDATER",
+    "text": "Client Updater is a library built to create a modular updating system. Client Updater collects all files from a specific directory on the client and bundles them up into a file full of hash values. This file is then sent to a server to compare and determine what files should be returned and what files should be deleted <br><br> <a class=\"text-custom-1\" href=\"https://github.com/Jezzalittle/c-clientUpdater\">Github</a>",
+    "videoLink": "src/assets/projects/ClientUpdaterBig.gif",
+    "type": "gif",
+    "tags": ["C++", "Networking"]
+  },
+  {
+    "name": "PHYSICS 2D",
+    "text": "Physics 2D is a physics simulation written in C++ using the AIE's graphics framework. All of the collision detection for circles, squares and planes were written from scratch as were the collision resolutions and gravity.<br><br> <a class=\"text-custom-1\" href=\"https://github.com/Jezzalittle/PhysicsEngineBootStrapC-\">Github</a>",
+    "videoLink": "src/assets/projects/physics-2dBig.gif",
+    "type": "gif",
+    "tags": ["C++", "Physics"]
+  },
+  {
+    "name": "ECHO COMMAND",
+    "text": "Echo Command is top down 2D puzzle game developed during the 2018 Global Game Jam in Melbourne. Participants had 48 hours to create a game from scratch based on the theme \"Transmission\"<br><br> <a class=\"text-custom-1\" href=\"https://v3.globalgamejam.org/2018/games/echo-command\">GGJ</a>",
+    "videoLink": "src/assets/projects/EchoBig.gif",
+    "type": "gif",
+    "tags": ["C#", "Unity", "Game Jam", "Mobile"]
+  },
+  {
+    "name": "SLIMETIME",
+    "text": "SlimeTime is a three quarter view twin stick shooter where 2 - 4 players control a slime and fight other players, collecting neutral slimes with the goal of being the largest slime for the longest time.<br><br>This is a game I developed as part of my final assessment in my first year at AIE.",
+    "videoLink": "https://www.youtube.com/embed/x04GyVIEK_U?si=vsKkzh0tTHpZJAGx",
+    "type": "video",
+    "tags": ["C#", "Unity"]
+  },
+  {
+    "name": "VRUNNER",
+    "text": "VRunner is an endless runner that makes excellent use of virtual reality. while the game is simple in concept, it becomes immersive in a VR environment.",
+    "videoLink": "src/assets/projects/VRunnerBig.gif",
+    "type": "gif",
+    "tags": ["C#", "Unity", "VR"]
+  },
+  {
+    "name": "2D LIGHT TECHNICAL DEMO",
+    "text": "2D Light Test is a technical demonstration created in my first year at AIE. It uses \"line segment box intersection\" to calculate light paths (tris) that are then drawn to the screen.",
+    "videoLink": "https://www.youtube.com/embed/k52yO909m3g?si=ISiiFY38hO7eCdwa",
+    "type": "video",
+    "tags": ["C++", "Graphics"]
   }
+  
   ]
 }
