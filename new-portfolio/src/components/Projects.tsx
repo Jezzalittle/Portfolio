@@ -9,7 +9,7 @@ import { EmblaCarouselType, EmblaEventType } from "embla-carousel";
 import AutoScroll from "embla-carousel-auto-scroll";
 import { animate, motion } from "framer-motion";
 import { useEffect, useRef, useState } from "react";
-import ReactPlayer from "react-player";
+import ReactPlayer from "react-player/youtube";
 import projects from "../data/projects.json";
 
 export default function Projects() {
