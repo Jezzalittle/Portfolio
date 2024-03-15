@@ -60,28 +60,28 @@
   {
     "name": "OPENGL ENGINE",
     "text": "OpenGL Engine is the last C++ project I made at AIE, it uses OpenGL to draw OBJ to the Screen, the engine came with a few options including: Background Colour, PBR Shader, Postprocessing effects and some light settings<br><br> <a class=\"text-custom-1\" href=\"https://github.com/Jezzalittle/AIE-Graphics-Engine-Cpp\">Github</a>",
-    "videoLink": "/projects/OpenGL.gif",
+    "videoLink": "projects/OpenGL.gif",
     "type": "gif",
     "tags": ["C++", "Graphics"]
   },
   {
     "name": "CLIENT UPDATER",
     "text": "Client Updater is a library built to create a modular updating system. Client Updater collects all files from a specific directory on the client and bundles them up into a file full of hash values. This file is then sent to a server to compare and determine what files should be returned and what files should be deleted <br><br> <a class=\"text-custom-1\" href=\"https://github.com/Jezzalittle/c-clientUpdater\">Github</a>",
-    "videoLink": "/projects/ClientUpdaterBig.gif",
+    "videoLink": "projects/ClientUpdaterBig.gif",
     "type": "gif",
     "tags": ["C++", "Networking"]
   },
   {
     "name": "PHYSICS 2D",
     "text": "Physics 2D is a physics simulation written in C++ using the AIE's graphics framework. All of the collision detection for circles, squares and planes were written from scratch as were the collision resolutions and gravity.<br><br> <a class=\"text-custom-1\" href=\"https://github.com/Jezzalittle/PhysicsEngineBootStrapC-\">Github</a>",
-    "videoLink": "/projects/physics-2dBig.gif",
+    "videoLink": "projects/physics-2dBig.gif",
     "type": "gif",
     "tags": ["C++", "Physics"]
   },
   {
     "name": "ECHO COMMAND",
     "text": "Echo Command is top down 2D puzzle game developed during the 2018 Global Game Jam in Melbourne. Participants had 48 hours to create a game from scratch based on the theme \"Transmission\"<br><br> <a class=\"text-custom-1\" href=\"https://v3.globalgamejam.org/2018/games/echo-command\">GGJ</a>",
-    "videoLink": "/projects/EchoBig.gif",
+    "videoLink": "projects/EchoBig.gif",
     "type": "gif",
     "tags": ["C#", "Unity", "Game Jam", "Mobile"]
   },
@@ -95,7 +95,7 @@
   {
     "name": "VRUNNER",
     "text": "VRunner is an endless runner that makes excellent use of virtual reality. while the game is simple in concept, it becomes immersive in a VR environment.",
-    "videoLink": "/projects/VRunnerBig.gif",
+    "videoLink": "projects/VRunnerBig.gif",
     "type": "gif",
     "tags": ["C#", "Unity", "VR"]
   },
