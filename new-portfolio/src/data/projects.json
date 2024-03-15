@@ -39,7 +39,7 @@
     {
       "name": "GOOGLE SHEETS UNITY INTEGRATION",
       "text": "GoogleSheets Unity Integration is a tool I created during my time at ManaTea. The tool creates instances of objects from rows in a google sheet and populates the values of those objects with from columns in the spreadsheet, this was developed as a tool to help speed up development of the game by allowing designers to create and tweak item values before pulling them into Unity.",
-      "videoLink": "/projects/GoogleSheets.gif",
+      "videoLink": "projects/GoogleSheets.gif",
       "type": "gif",
       "tags": ["Unity", "C#", "Tooling"]
     },
