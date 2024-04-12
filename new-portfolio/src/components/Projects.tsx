@@ -112,14 +112,14 @@ export default function Projects() {
 	return (
 		<div
 			id="Projects"
-			className="flex h-[92vh] w-screen flex-col content-center items-center bg-raisin-black "
+			className="h-dvh flex w-screen flex-col content-center items-center bg-raisin-black "
 		>
 			<h1 className="m-4 font-['Times'] text-5xl font-bold text-custom-2 md:text-7xl">
 				PROJECTS
 			</h1>
 			<Divider />
 			<div className="my-16 flex w-[90%] flex-col items-center gap-y-20">
-				<div className="mx-auto grid w-fit grid-cols-[2fr_6fr] gap-x-14">
+				<div className="mx-auto grid max-h-[80%] w-fit grid-cols-[2fr_6fr] gap-x-14">
 					<Card
 						className="h-full border-3 border-custom-2 bg-raisin-black"
 						shadow="lg"
@@ -127,16 +127,16 @@ export default function Projects() {
 					>
 						<motion.div id="project-card-title">
 							<div className="m-3 auto-rows-auto">
-								<h1 className="h-auto pr-4 align-middle font-['Times'] text-5xl font-bold text-custom-2">
+								<h1 className="h-auto pr-4 align-middle font-['Times'] text-5xl font-bold text-custom-2 ">
 									{projectsData[index].name}
 								</h1>
 							</div>
 						</motion.div>
 						<Divider className="auto-rows-min" />
 						<motion.div id="project-card-text">
-							<div className="mb-3 ml-3 mr-3 grow auto-rows-auto pt-4">
+							<div className="mb-3 ml-3 mr-3 auto-rows-auto pt-4">
 								<p
-									className="h-auto grow overflow-auto font-serif  text-2xl font-medium text-custom-2"
+									className="h-auto overflow-hidden font-serif text-2xl font-medium text-custom-2"
 									dangerouslySetInnerHTML={{ __html: projectsData[index].text }}
 								></p>
 							</div>
