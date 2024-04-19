@@ -32,7 +32,7 @@ export default function About() {
 							I'm a passionate game developer and programmer based in Melbourne,
 							Australia. With over 3 years of professional programming
 							experience. My core skills lie in Unity3d, C# and C++. However,
-							I'm also experience in a variety of other languages, including
+							I'm also experienced in a variety of other languages, including
 							Java, JavaScript, VB.NET, React, HTML/CSS, Python, and SQL. This
 							allows me to tackle diverse programming challenges and contribute
 							effectively across different projects. In essence, I'm a highly
